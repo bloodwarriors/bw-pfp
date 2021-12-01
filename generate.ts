@@ -63,8 +63,8 @@ const generate = async () => {
 
         await sharp("parts/bg.png")
             .composite(parameters)
-            .png()
-            .toFile(`results/${id}.png`);
+            .jpeg({ quality: 90 })
+            .toFile(`results/${id}.jpg`);
 
         console.log(`#${id} generated.`);
     }
