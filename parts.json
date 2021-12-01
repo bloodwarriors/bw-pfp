@@ -1,0 +1,453 @@
+[{
+        "name": "body",
+        "parts": [{
+                "name": "0",
+                "images": [{
+                    "path": "parts/body/0.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "1",
+                "images": [{
+                    "path": "parts/body/1.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "2",
+                "images": [{
+                    "path": "parts/body/2.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "3",
+                "images": [{
+                    "path": "parts/body/3.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "4",
+                "images": [{
+                    "path": "parts/body/4.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "5",
+                "images": [{
+                    "path": "parts/body/5.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "6",
+                "images": [{
+                    "path": "parts/body/6.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "7",
+                "images": [{
+                    "path": "parts/body/7.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "8",
+                "images": [{
+                    "path": "parts/body/8.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "9",
+                "images": [{
+                    "path": "parts/body/9.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "10",
+                "images": [{
+                    "path": "parts/body/10.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "11",
+                "images": [{
+                    "path": "parts/body/11.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "12",
+                "images": [{
+                    "path": "parts/body/12.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "13",
+                "images": [{
+                    "path": "parts/body/13.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "14",
+                "images": [{
+                    "path": "parts/body/14.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "15",
+                "images": [{
+                    "path": "parts/body/15.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "16",
+                "images": [{
+                    "path": "parts/body/16.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "17",
+                "images": [{
+                    "path": "parts/body/17.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "18",
+                "images": [{
+                    "path": "parts/body/18.png",
+                    "order": 200
+                }]
+            },
+            {
+                "name": "19",
+                "images": [{
+                    "path": "parts/body/19.png",
+                    "order": 200
+                }]
+            }
+        ]
+    },
+    {
+        "name": "head",
+        "parts": [{
+            "name": "0",
+            "images": [{
+                "path": "parts/head/0.png",
+                "order": 300
+            }]
+        }, {
+            "name": "1",
+            "images": [{
+                "path": "parts/head/1.png",
+                "order": 300
+            }]
+        }, {
+            "name": "2",
+            "images": [{
+                "path": "parts/head/2.png",
+                "order": 300
+            }]
+        }, {
+            "name": "3",
+            "images": [{
+                "path": "parts/head/3.png",
+                "order": 300
+            }]
+        }, {
+            "name": "4",
+            "images": [{
+                "path": "parts/head/4.png",
+                "order": 300
+            }]
+        }, {
+            "name": "5",
+            "images": [{
+                "path": "parts/head/5.png",
+                "order": 300
+            }]
+        }, {
+            "name": "6",
+            "images": [{
+                "path": "parts/head/6.png",
+                "order": 300
+            }]
+        }, {
+            "name": "7",
+            "images": [{
+                "path": "parts/head/7.png",
+                "order": 300
+            }]
+        }, {
+            "name": "8",
+            "images": [{
+                "path": "parts/head/8.png",
+                "order": 300
+            }]
+        }, {
+            "name": "9",
+            "images": [{
+                "path": "parts/head/9.png",
+                "order": 300
+            }]
+        }, {
+            "name": "10",
+            "images": [{
+                "path": "parts/head/10.png",
+                "order": 300
+            }]
+        }, {
+            "name": "11",
+            "images": [{
+                "path": "parts/head/11.png",
+                "order": 300
+            }]
+        }, {
+            "name": "12",
+            "images": [{
+                "path": "parts/head/12.png",
+                "order": 300
+            }]
+        }, {
+            "name": "13",
+            "images": [{
+                "path": "parts/head/13.png",
+                "order": 300
+            }]
+        }, {
+            "name": "14",
+            "images": [{
+                "path": "parts/head/14.png",
+                "order": 300
+            }]
+        }, {
+            "name": "15",
+            "images": [{
+                "path": "parts/head/15.png",
+                "order": 300
+            }]
+        }, {
+            "name": "16",
+            "images": [{
+                "path": "parts/head/16.png",
+                "order": 300
+            }]
+        }, {
+            "name": "17",
+            "images": [{
+                "path": "parts/head/17.png",
+                "order": 300
+            }]
+        }, {
+            "name": "18",
+            "images": [{
+                "path": "parts/head/18.png",
+                "order": 300
+            }]
+        }, {
+            "name": "19",
+            "images": [{
+                "path": "parts/head/19.png",
+                "order": 300
+            }]
+        }]
+    },
+    {
+        "name": "front-head",
+        "parts": [{
+            "name": "Blank"
+        }, {
+            "name": "0",
+            "images": [{
+                "path": "parts/front-head/0.png",
+                "order": 400
+            }]
+        }, {
+            "name": "1",
+            "images": [{
+                "path": "parts/front-head/1.png",
+                "order": 400
+            }]
+        }, {
+            "name": "2",
+            "images": [{
+                "path": "parts/front-head/2.png",
+                "order": 400
+            }]
+        }, {
+            "name": "3",
+            "images": [{
+                "path": "parts/front-head/3.png",
+                "order": 400
+            }]
+        }, {
+            "name": "4",
+            "images": [{
+                "path": "parts/front-head/4.png",
+                "order": 400
+            }]
+        }, {
+            "name": "5",
+            "images": [{
+                "path": "parts/front-head/5.png",
+                "order": 400
+            }]
+        }, {
+            "name": "6",
+            "images": [{
+                "path": "parts/front-head/6.png",
+                "order": 400
+            }]
+        }, {
+            "name": "7",
+            "images": [{
+                "path": "parts/front-head/7.png",
+                "order": 400
+            }]
+        }, {
+            "name": "8",
+            "images": [{
+                "path": "parts/front-head/8.png",
+                "order": 400
+            }]
+        }, {
+            "name": "9",
+            "images": [{
+                "path": "parts/front-head/9.png",
+                "order": 400
+            }]
+        }, {
+            "name": "10",
+            "images": [{
+                "path": "parts/front-head/10.png",
+                "order": 400
+            }]
+        }, {
+            "name": "11",
+            "images": [{
+                "path": "parts/front-head/11.png",
+                "order": 400
+            }]
+        }, {
+            "name": "12",
+            "images": [{
+                "path": "parts/front-head/12.png",
+                "order": 400
+            }]
+        }, {
+            "name": "13",
+            "images": [{
+                "path": "parts/front-head/13.png",
+                "order": 400
+            }]
+        }, {
+            "name": "14",
+            "images": [{
+                "path": "parts/front-head/14.png",
+                "order": 400
+            }]
+        }, {
+            "name": "15",
+            "images": [{
+                "path": "parts/front-head/15.png",
+                "order": 400
+            }]
+        }, {
+            "name": "16",
+            "images": [{
+                "path": "parts/front-head/16.png",
+                "order": 400
+            }]
+        }, {
+            "name": "17",
+            "images": [{
+                "path": "parts/front-head/17.png",
+                "order": 400
+            }]
+        }, {
+            "name": "18",
+            "images": [{
+                "path": "parts/front-head/18.png",
+                "order": 400
+            }]
+        }, {
+            "name": "19",
+            "images": [{
+                "path": "parts/front-head/19.png",
+                "order": 400
+            }]
+        }, {
+            "name": "20",
+            "images": [{
+                "path": "parts/front-head/20.png",
+                "order": 400
+            }]
+        }]
+    },
+    {
+        "name": "acce",
+        "parts": [{
+            "name": "Blank",
+            "percent": 90
+        }, {
+            "name": "0",
+            "images": [{
+                "path": "parts/back-acce/0.png",
+                "order": 100
+            }, {
+                "path": "parts/acce/0.png",
+                "order": 500
+            }]
+        }, {
+            "name": "1",
+            "images": [{
+                "path": "parts/back-acce/1.png",
+                "order": 100
+            }, {
+                "path": "parts/acce/1.png",
+                "order": 500
+            }]
+        }, {
+            "name": "2",
+            "images": [{
+                "path": "parts/back-acce/2.png",
+                "order": 100
+            }, {
+                "path": "parts/acce/2.png",
+                "order": 500
+            }]
+        }, {
+            "name": "3",
+            "images": [{
+                "path": "parts/back-acce/3.png",
+                "order": 100
+            }, {
+                "path": "parts/acce/3.png",
+                "order": 500
+            }]
+        }, {
+            "name": "4",
+            "images": [{
+                "path": "parts/back-acce/4.png",
+                "order": 100
+            }, {
+                "path": "parts/acce/4.png",
+                "order": 500
+            }]
+        }]
+    }
+]
